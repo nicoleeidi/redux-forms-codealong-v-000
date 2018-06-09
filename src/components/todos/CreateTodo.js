@@ -1,7 +1,7 @@
 // ./src/components/todos/CreateTodo.js
- 
+
 import React, { Component } from 'react'
- 
+
 class CreateTodo extends Component {
   render() {
     return(
@@ -17,5 +17,5 @@ class CreateTodo extends Component {
     );
   }
 };
- 
+
 export default CreateTodo;
